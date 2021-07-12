@@ -1,0 +1,33 @@
+Como evitar alterações banais que os clientes sempre pedem ?
+
+1- Gerenciar expectativa sabendo qual o status atual do cliente
+. O que está vivendo;
+. Como está realizando as tarefas;
+. Qual o momento do produto que ele quer melhorar;
+
+2- Entender so objetivos do cliente
+. As métricas utilizadas;
+. Como ele está fazendo para chegar aos objetivos;
+
+3- Perguntar quais obstáculos que impedem de chegar aos objetivos
+
+4- Change request form -  Serve para registrar os pedidos de mudança
+. Enviar formulário para cliente com detalhes referentes à mudança, esclarecendo:
+. O que vai mudar;
+. Quem vai assinar;
+. Quem está envolvido do lado do cliente;
+. Preço;
+. Qual o impacto da mudança;
+
+* Colocar cliente próximo do projeto.
+-- Quanto mais o cliente participar do protótipo ou do escopo, menor a chance dele pedir mudança.
+-- Menor a chance de criticar algo que ele mesmo esteve fazendo parte.
+
+* Jornada do usuário
+. Quais tarefas, fluxos que o usuário tem que fazer para atingir um objeto (Comprar um novo produto, por exemplo)
+. Atores que vão entrar na jornada.
+. Ter conhecimento de teoria de design de interface para poder argumentar com o cliente.
+. Ser comunicativo, saber argumentar (Soft Skill)
+. Evitar ser muito amigo de cliente, para que os trabalhos não fiquem sendo amigáveis.
+
+UX é o ponto em comum onde devo saber sobre o usuário seu negócio e o produto.

@@ -1,0 +1,23 @@
+Fundamentos: O que é UX e UI? 
+
+Telinhas bonitas são importantes? Sim, porém não é tudo no design.
+O que é design? É projetar coisas.
+O que é fazer UX? é executar um processo que olha para usuários, negócios e viabilidade tecnológica.
+
+Don Norman, criador do Termo  UX, diz: 
+
+"Hoje esse termo é terrivelmente mal utilizado. Ele é usado por pessoas para dizer:
+'Eu sou um User Experience Designer, eu faço websites', ou 
+'Eu faço aplicativos'. Eles não tem nem ideia do que estão fazendo e acham que a experiência 
+é somente aquele dispositivo, website, aplicativo ou sabe quem lá o que!!!"
+
+Tarefa exemplo: 
+- Preciso de um armazenador de Ketchup:
+
+Contexto diferentes.
+. Para cliente de um restaurante
+. Para fazer receitas em um restaurante
+. Para consumir em casa
+
+Descobbre si que uma interface tem boa UX colocando o usuário para utilizar.
+Isso se obter por testes de usabilidade, etc.

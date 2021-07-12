@@ -1,0 +1,16 @@
+Quando o cliente chega com um nova ideia é importante fazer tais perguntais.
+
+- Why: Por quê você quer fazer isso?
+    R: Tenta explicar qual o objetivo deste projeto, qual a necessidade dele,
+    qual a oportunidade de negócio ele cria.
+- Who: Quem este projeto poderá ajudar?
+    R: Explica quem está envolvido nesta solução e quem será ajudado por ela, quem são os usuários finais.
+- What: Quais as alternativas de solução?
+    R: Como podemos alcançar estas metas por outros meios,
+    quais outras abordagens que poderiam trazer o mesmo resultado,
+    produto físico ou digital.
+- Where/When: Por onde e quando estas pessoas estarão quando solicitaram pelo serviço?
+    R: Estarão em casa, no trabalho, na rua, como as pessoas terão acesso aos serviços.
+
+- How to Measure: Como medir se o design deu certo?
+    R: Fazendo benchmark, wireframe, prototipo de alta fidelidade...

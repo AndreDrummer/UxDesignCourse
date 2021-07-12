@@ -1,0 +1,36 @@
+1. Objetivo
+- Ganhar experiência prática.
+- Criar primeiro case de portfólio.
+
+2. Módulos
+- Negócio:
+    Objetivos de negócio
+    Preocupações negoiciais
+    
+- Usuário
+    Análise de contexto
+    Análise de perfil
+
+- Validação pré solução
+    Priorização
+
+- Solução
+    Protótipação
+
+- Validação pós solução
+    
+- Medição
+    Métricas de negócio: Saber se realmente alcançando resultados esperados.
+    Métricas de UX: Saber se o usuário está tendo retorno quando usa o produto.
+    Métricas de Equipe: Saber se a equipe está performando bem enquanto entrega a solução.
+
+KPI: Key Performances Indicators
+OKR: Objective Key Results
+
+Uso de ferramentas - 5W 2H
+
+Why: Desafio e Estratégia | Propósito de negócio
+Who: Stakeholders | Suposições | Pesquisas | Personas
+When: Jornadas | Oportunidades
+What: Priorização | Ideias | Protótipos | MVP
+How measure: Métricas de usabilidade | Gestão proJUto: Gestão de projetos e Gestão de produtos.

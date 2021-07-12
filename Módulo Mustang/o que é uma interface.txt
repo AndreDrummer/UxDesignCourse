@@ -1,0 +1,1 @@
+Interfaces são meios utilizados para controlar um dispositivo.

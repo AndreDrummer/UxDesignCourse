@@ -1,0 +1,11 @@
+Elementos da Experiencia do Usuário:
+
+- Strategy
+    . O que é o produto
+    . Que problema ele resolve
+    . Para quem é esse produto
+
+- Scope
+- Structure
+- Skeleton
+- Surface

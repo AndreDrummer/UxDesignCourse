@@ -1,0 +1,5 @@
+Tópicos importantes desse módulo:
+
+- Ouvir o cliente
+- Gerenciar expectativa
+- Saber o que perguntar

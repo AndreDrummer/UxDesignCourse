@@ -1,0 +1,39 @@
+Pesquisa quantitativa: Entender o que está errado e o que pode ser melhorado. (Entender o que ta errado)
+Pesquisa qualitativa: Porque está errado e resolver o problema na raiz. (Entender porque ta errado)
+
+Certeza:
+1- Os cabeleireiros estão com baixo faturamento durante esta pandemia.
+2- Eles estão com baixo número de clientes
+3- Seus clientes tem receio de ir ao salão por causa do virus
+
+
+Suposições
+1- Nem todos os salões tenham profissionais registrados em CLT e o cabeleireiro nem sempre é exclusivo do salão.
+2- Existe um vínculo forte do cliente com o cabeleireiro e não com o salão de beleza
+3- Acredito que nem todos os cabeleireiros explorem outras formas de atender seus clientes como Apps de cabeleireiros e aluguel de cadeira
+4- Eu acredito que o cabeleireiro não sabe fazer seu marketing pessoal e perde oportunidade de amplificar sua reputação e conquistar novos clientes.
+5- Eu acredito que na profissão de cabeleireiro exista muito Ego.
+
+Dúvidas
+1- Frear a crise: Voce tem vendido pacotes de desconto, ticketes para os clientes utilizarem
+    durante o periodo de lockdown como uma forma de driblar a crise? O que mais? O que tem feito então?
+2- Atrair novos clientes: Você está utilizando este momento com todo mundo em casa para fazer lives,
+    tutorials... porque isso pode ajudar...
+3- Segurança no que faz: Você tem confiança no seu serviço ou ainda se sente inseguro quando o cliente pede determinados serviços?
+4- Especialização: Como vc se especializa no que faz? Tem uma formação ou aprendeu sozinho, como é isso e o que isso significa para você?
+5- Relacionamento Interpessoal: Já ouve situações que se desentendeu com seu cliente?
+6- Satisfação do cliente: Seus clientes costumam voltar após a realização de um serviço?
+7- CLT: Você é fichado?
+8- Fidelizade: Os clientes que você atende vai no salão por causa do seu serviço ou porque são conveniados do salão?
+9- Marketing Pessoal: Em média quantos clientes você conseguiu por meio das redes sociais?
+10- Ego: Existe um certo ego entre os profissionais de beleza, acredito que até mesmo maior dentro profissionais mulheres. Como vc
+ve a competição entre seus colegas de profissão? Existe uma competição para entregar mais qualidade ou para ver quem é mais expert?
+
+Outros meios de Ferramentas de pesquisa, além das opinativas como as de formulários. São elas..
+
+----- Ferramentas comportamentais:
+- Eyetracks
+- Laboratorio de usabilidade
+- Teste A/B
+- Teste moderado
+- Analise de cliques

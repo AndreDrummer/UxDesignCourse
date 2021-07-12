@@ -1,0 +1,4 @@
+. pearsonified.com/typography -  Tamanho do bloco de texto, entre linhas.. etc.
+. www.gridlover.net/try - Fazer simulação de como ficará o texto na página.
+. https://www.modularscale.com/ - Escolher tamnho das fontes.
+. https://www.fontpair.co/ - Escolher combinação de fontes.

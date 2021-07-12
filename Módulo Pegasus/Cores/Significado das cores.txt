@@ -1,0 +1,43 @@
+Significado das cores
+
+O Significado das cores é bem subjetivo e depende do contexto.
+
+Vermelho
+Fogo, guerra, violência, amor, paixão, demônio, culpido.
+
+Laranja
+Vibrante, vitalidade, energética...
+
+Amarelo
+Alerta, esperança, atenção, felicidade, alegria, riqueza, espaço vip, criatividade.
+
+Verde
+Natureza, vegetaçãi, alimentação saudável, novas oportunidades, crescimento,
+harmonia, riqueza, estabilidade, sucesso, sustentabilidade.
+
+Azul
+Passam boas sensações, calma, responsabilidade.
+Em tons mais claros é sensação de prazer, relaxar, calma.
+Em tons mais escuros é algo mais sério, investimentos, dinheiro, tecnologia.
+
+Roxo
+Principalmente na cor escura da ideia de luxo, riqueza, algo da realeza.
+Criatividade, inovação,
+
+Preto
+Cor forte, poder, elegância, fineza, formalidade.
+Morte, luto, ocultismo.
+
+Branco
+Paz, tranquilidade, virtuosidade, saúde.
+Em UI é utilizado para dar suporte a outras cores, layouts cleans e objetivos.
+
+Cinza
+Cor neutra, cor de suporte.
+Corporativo, profissional, formal, sofisticação.
+Tons claros de cinza para substituir o branco.
+Tons escuros de cinza para substituir o preto.
+
+Marrom
+Lembra terra, pedra, mandeira, confiabilidade, firmeza.
+Solidez, sobriedade.

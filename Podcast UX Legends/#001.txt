@@ -1,0 +1,97 @@
+Como criar oportunidades em UX Design
+
+"Mais de 75% das pessoas começando em UX Design não tem case de portifólio.
+Precisa ter um para ter sua primeira oportunidade!"
+
+
+5 Tópicos que serão abordados:
+- Como se vender;
+- Currículo;
+- Linkedlin;
+- Portifólio;
+- Processo de Trabalho;
+
+"É importante estabelecer uma estratégia, um alvo e não sair atirando para todas as vagas."
+
+1. Analizar os concorrentes.
+- Seja o melhor da sua liga.
+- Se destaque entre as pessoas que estão no mesmo nível que você.
+
+- Para se destacar:
+    - Pesquisa com usuário: Apenas 50% fizeram pessoalmente com pelo menos 1 pessoa;
+    - Design de interface; 
+    - Escrita de conteúdo;
+    - Medição de objetivos: Apenas 20% fizeram.
+
+- Entender o que elas podem entregar e tentar ser melhor do que eles.
+- Praticar o que sabe na teoria.
+
+
+2. Aprenda a se vender.
+- O que posso oferecer para o mercado.
+- Saiba expôr isso para o  mercado.
+- Demonstre ter os requisitos técnicos requeridos pela vaga.
+- Não precisa ficar dizendo que é o melhor. Basta responder as perguntas com propriedade.
+
+- Qual valor você entrega quando é contratado.
+    - Listar as coisas que consegue fazer e destacar aquela que consegue fazer melhor.
+    - Como unir aquilo que saber fazer bem com aquilo que o mercado pode pagar.
+
+- Como vão te conhecer?
+    - Escrever artigos no linkedin.
+    - Comentar nos posts de funcionários de empresas que quero trabalhar.
+    - Escrever posts no medium.
+    - Aumentar rede de relacionamento.
+    - Participe ativamente na comunidade.
+
+- Quais recursos você tem (C.H.A)
+    - Conhecimentos - Coisas que já leu, estudou..
+    - Habilidades - Coisas que já praticou, já sabe fazer, trabalhou..
+    - Atitudes - Tem haver com soft skill, comunicação, pró atividade..
+
+- Atividade: O que você pode fazer?
+- Quem te ajuda (parcerias)
+    - Cursos.
+    - Livros.
+    - Mentores.
+    - Alguém que já trabalha na empresas.
+
+
+3. Defina um currículo/Linkedlin que chame atenção dos recrutadores.
+- Talvez precise criar um currículo para cada vaga.
+- Faça um currículo base e adapte para cada vaga.
+
+- Estrutura do CV
+. Título do cargo
+. Link para linkedlin
+. Top 3 Experiências utilizando metodo C.A.R - Contexto, Ações e Resultado.
+. Outras Experiências
+. Educação e Certificação -  Formação acadêmica, certificações e cursos importantes.
+. Habilidades - Ferramentas que sabe utilizar, metodologias que sabe, equipes que já trabalhou.
+. Idiomas que sabe falar e o seu nível.
+. Evitar experiências que não tem a ver com a vaga.
+
+
+4. Portifólio
+- Provar que já tem prática com os conhecimentos escritos no currículo.
+- Vale até trabalhar de graça para ter experiência na área.
+- Qualidade vale mais que quantidade. Melhor 1 bem feito do que 30 meia boca.
+- Ter um bom título para o portifólio
+- Mostrar qual foi o contexto para resolução do portifólio
+- Eu sou o heroi desse portifólio
+- O vilão é o problema
+- Ter um case de portifólio parecido com o que a vaga pede pode ser matador.
+- 5W 1H = Why, Who, When, Where, What e How to measure.
+
+
+5. Ter um processo de trabalho estruturado.
+- Esse processo deve ser treinado e "sempre" deve dar certo.
+- Prototipar e testar se a solução funciona antes de codificar.
+- Medir se a solução entrega benefício depois de codificada.
+
+Resumo:
+- Investir na carreira, gastar tempo e dinheiro para adquirir os conhecimentos, habilidades e atitudes para conquistar a vaga;
+- Saber de vender e ser o melhor da sua liga;
+- Difinir um currículo;
+- Como mostrar sua experiência de forma a criar contexto e ações para chegar no resultado;
+- Como ter um processo estruturado para mostrar que sabe resolver problemas e não sabe apenas fazer telas bonitas;

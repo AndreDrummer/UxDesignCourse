@@ -1,0 +1,5 @@
+UX: User Experience - Experiência do usuário.
+UI: User Interface - Interface dos usuários
+
+Ui Design é o processo de se projetar as ferrametnas que
+os usuários vão utilizar para interagir com o produto.

@@ -1,0 +1,7 @@
+1- Legibilidade - Diz respeito ao grau de facilidadde de distinguir entre os caraceters.
+    .Altura da caixa baixa = xHeight
+    .Peso da fonte
+    .Largura do caracter = Evitar fonts condensed, ou seja fontes que tenham a largura menor que a altura.
+    .Espaçamento entre caraceters.
+
+2- Leiturabilidade - Diz respeito a facilidade de ler o texto.

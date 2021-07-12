@@ -1,0 +1,41 @@
+Erros mais comuns e como evitá-los
+
+1- Quando não deve se realizar uma Pesquisa?
+- Não deve ser realizada para provar que estou certo e
+sim para saber onde posso melhorar, onde posso estar errado, o que deve ser feito diferente
+para que o usuário possa ter uma melhor experiência.
+
+2- Fazer a pesquisa quando:
+- Quero saber quem são meus usuários.
+- Para entender como o usuário está resolvendo o problema hoje.
+
+- Não discutir opniões porque na maioria das vezes são infrutíferas e a pessoa mais importante da empresa presente na reunião, geralmente ganha.
+- Comemorar quando uma solução é invalidada com base em pesquisas assim como também comemora-se quando uma solução para um problema é encontrado.
+
+3- Erros:
+- Falar/explicar demais sobre o produto.
+- Responder a perguntas de forma a influenciar a resposta do pesquisado.
+- Não peça opnião, o objetivo é obter os fatos, aquilo que o usuário já fez em relação ao problema anteriormente.
+- Não saber o aprendizado que se quer obter com a pesquisa.
+- Não ter um objetivo com a pesquisa.
+- Não ter uma noção sobre quem é a persona desta pesquisa.
+- Viabilizar a pesquisa em um grupo que não é persona.
+
+4- Pontos positivos.
+- Levar a campo para pesquisa somente aquilo onde eu tenho pouco conhecimento sobre.
+- Levar a campo uma pergunta para cada uma das suposições que eu ou meu time tem sobre o problema.
+- Delimitar a persona
+- Criar um hábito de realizar pesquisa
+- Perguntar ao usuário como ele agiu na última vez que ele passou por esse problema. 
+- Remover o futuro do pretérito durante as pesquisas (faria, gostaria, escolheria)
+
+--- Alternativas para quando não é possível pesquisar com usuários:
+- Trabalhar olhando os reviews dos apps, comentários.
+- Pedido de novas features.
+- Conversar com a galera do call center. Eles tem muitas reclamações que os usuários fazem diariamente.
+- Trabalhar com as ferramentas de UX tais como: Google Analytics e outros.
+
+- Conceitos
+---- Leading e Legging metrics
+- Legging metrics: Objetivo que quero atingir
+- Leading metrics: Coisas a fazer para atingir os objetivos

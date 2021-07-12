@@ -1,0 +1,39 @@
+--- Configurações de cores
+00 ou -1| -15 satturação
+01 ou  0|
+02 ou  1| + 5 saturação e -15 brilho
+
+--- Dica para paleta de cores
+
+Regra 60-30-10:
+60% da tela cor dominante
+30% da cor secondária
+10% cor acentuada / cor de destaque
+
+Regra de variações de tons:
+Ex.: Azul escuro, mais claro, intermediário.
+Nesta regra a cor usada é uma só, porém com variações.
+
+--- Círculo cromático
+Cores opostas no círculo tendem a ter ótimo constrates.
+
+--- Monocromático
+Tem baixo constrate, mas pode ser bem harmonioso.
+
+--- Cores análogas.
+Tem baixo constrate e combinação harmoniosa.
+
+--- Cores complementares.
+Causam bom constraste, mas não tem tanta harmonia.
+
+--- Cores triádicas.
+Coloca-se um trinagulo equilatero sobre o circulo e iré se obter 3 cores.
+Duas terciarias e uma primária.
+
+--- Acessibilidade
+Site http://www.uigoodies.com/
+
+Dicas.
+
+Trabalhe com no máximo três cores.
+Utilize constraste para ajudar o usuário a encontrar o que ele tem que fazer.

@@ -1,0 +1,70 @@
+Anotações
+
+Cenário atual:
+-- Salão e cabeleireiros:
+- Brasil pais que mais gasta com produtos de beleza.
+- Para driblar a crise: atendimento personalizado com
+  kits de segurança, uso de apps de delivery para vender
+  produtos, live streams para gerar engajamento com clientes fiéis.
+
+-- clientes
+- É hora de poupar
+
+Objetivo do projeto
+- Reconectar clientes ao salão
+
+1- Personas
+Marta, dona de salão:
+- Gerencia parte administrativa do salão, 20+ anos de carreira
+- Reclama da falta de clientes
+- Não vende produtos
+
+Leo, cabeleireiro
+- Reclama que os clientes tem receio de ir ao salão
+- Faturamento caiu pela metade
+- Preocupa-se com a especialização
+
+Sandra, cliente
+- Não tem segurança para ir ao salão, pois tem receio de contágio
+- Prefere segurar o cabelo mais cumprido ou com fios brancos do que sair
+
+2- Jornadas
+Marta, dona de salão:
+- Oferece atendimento a domicílio
+- Oferece pacote de serviços
+- Alimenta redes sociais
+
+Leo, cabeleireiro:
+- Faz encaixes
+- Atende a domicílio
+- Adquire clientes por boca-a-boca
+- Divulga em redes socias seus protocolos de segurança contra covid
+
+Sandra, cliente
+- Pede horário por WhatsApp
+- Pede horário ligando par ao salão
+- Pede atendimento em horário com menor fluxo
+- Pede atendimento isolado no salão
+
+3- Pesquisas
+- Cabeleireiros
+. 40% tiveram redução em seus faturamentos mensal de até 50%
+. Metade são profissionais autônomos não exclusivos do salão
+. Metade preenchem suas agendas de maneira passiva, esperando o cliente chegar até eles
+. Utiliza o boca-a-boca para divulgação
+
+- Donos de salão
+. 80% trabalham como funcinários em seus estabelecimentos.
+. apenas 40% tem alguma forma de digitalização dos seu negócio com aplicativos ou softwares.
+. Seus funcionarios destes donos já entram capacitados
+. A clientela que frequenta os estabelecimentos são pessoas do ciclo social
+. 40% passaram a utilizar mais as redes sociais para poder divulgar seu negócio
+
+- Clientes
+. 54,7% deixaram de frequentar o salão.
+. Destes, 61,3 % tem medo de contrair COVID-19
+. Como estão em casa, 79,3% aprendeu a se cuidar por conta própria
+
+Outra parte, 46,3% decidiu ir ao salão
+. Destes, 84% sente insegurança ou receio de contaminar
+. 92% disseram que preferem que o salão evite fluxos de algomeração

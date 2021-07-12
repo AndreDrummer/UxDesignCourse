@@ -1,0 +1,17 @@
+Uma boa base para tamanhos de fonte em Desktop é 16px e em mobile é 12px. Isso para texto padrão.
+
+Para escolher os demais tamanhos, pode se utilizar:
+
+. Ambos começam com o p e depois vai H4, H3, H2, H1
+
+- Sistema de 8 pt: 16, 24, 32, 40, 48,56, 64, 72...
+- Modular por escala: Golden Ratio = Proporção aurea.
+    Por exemplo para aumentar a fonte H6 de 16 px, a H5 será 16*1.618 = 25.88
+    Para diminuir faz a divisão, 16/1.618. Pode ser utilizar o perfect fifth, que multiplica ou divide por 1.5.
+
+Dica:
+Escolha da entrelinha = altura do texto * 1.618.
+Para títulos 120%
+Para blocos 150% (Tipo 1,5 entre linhas do Word).
+
+Tamanho do bloco manter entre 45 e 90 caracteres.

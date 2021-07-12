@@ -1,0 +1,15 @@
+Sistema de cor RGB
+
+Mistura de 3 cores compostas por Red (Vermelho), Green (Verde), e Blue (Azul) e escrito no sistema de números
+hexadeciamais seguido por uma hashtag. (#000000)
+
+Sistema de cor HSB(A)
+
+Hue (Matiz, a tonalidade da cor), Saturation (Saturação, grau de pureza),
+Brightness (Brilho, o quão luminosa é essa cor), Alpha (Alfa, representa a transparência).
+
+Matiz é a cor pura sem misturas de preto ou branco.
+Saturação, vai de 0 (cor cinza) a 100 (cor pura) e representa a intensidade da cor.
+Brilho, é uma escala indo de 0 a 100 também. O 0 representa o preto, ausencia total de luz e 100 a cor mais brilhosa.
+Alfa, determina a transparência da cor.
+

@@ -1,0 +1,47 @@
+Projetos de ONGs:
+
+### Ensinar crianças e Jovens a Programar - Code Club ###
+- Existem mais de 10 mil Codee clubs no mundo, 600 no Brasil.
+- Base grande de voluntários.
+- Utilizam-se de escolas, empresas que cedem o espaço.
+- Linguagens: Python, Scratch e HTML.
+-- Formas de participar:
+- Dando aulas;
+- Co-Organização;
+- Voluntariado de tradução de material de Inglês -> Português;
+
+-- Maiores Desafios:
+- Gestão e acompanhamento dos Clubs.
+- Estabelecer sustentabilidade do projeto.
+- Manutenção do ciclo de atuação do volunatário.
+
+-- Como as pessaso teêm acessam ao Projeto ?
+. Existe um site.
+. Maioria é orgânico - Boca a boca.
+. Eventos realizados.
+
+-- Como funciona na quarentena?
+. Assíncrono: Passa um desafio e pede para as crianças resolverem.
+. Síncrono: Live com as crianças.
+. Estilo escola: Pedem para estudarem e apreseentar alguma coisa sobre.
+
+-- Fazem triagem? Como entrar ?
+. Não tem triagem! Um dos objetivos também é encurtar a distância socio-econômica.
+
+-- Restrição
+. Que a criança consiga ler bem!
+. 9 a 13 anos
+
+-- Dois maiores problemas
+. Gestão do Club
+. Manutenção do ciclo dos voluntários
+
+-- Voluntarios precisam de diploma?
+. Ser maior de 18 anos
+. Disponibilidade de tempo
+
+-- Crianças especiais podem participar?
+. Normalmente
+
+-- Existe suporte após a saída do projeto?
+. Não tem!

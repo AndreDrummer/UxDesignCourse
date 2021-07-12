@@ -1,0 +1,5 @@
+1. Utilizar no máximo dois estilos
+2. Fontes devem ser complementares
+3. Criar um contraste para ajudar na hierarquia visual.
+4. Busque fontes que tenha caixas baixas parecidas.
+5. Evite fontes parecidas.

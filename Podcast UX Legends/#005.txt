@@ -1,0 +1,6 @@
+Identificando produtos com um bom design.
+
+- Produtos não tem experiência. Quem tem experiência é o usuário.
+- No máximo dá pra fazer um teste A/B olhando para o passado da experiência dos
+usuários frente aquele problema e ver o que performa melhor.
+- Uma boa UX ajuda a criar um bom design.
