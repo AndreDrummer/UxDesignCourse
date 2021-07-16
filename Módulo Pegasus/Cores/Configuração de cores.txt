@@ -1,5 +1,5 @@
 --- Configurações de cores
-00 ou -1| -15 satturação
+00 ou -1| -15 saturação
 01 ou  0|
 02 ou  1| + 5 saturação e -15 brilho
 

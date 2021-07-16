@@ -1,0 +1,9 @@
+Dicas sobre botões
+
+1- Crie botões de apenas uma linha e com letras maiúsculas.
+2- Numa barra de botões, use os botões com caracteristicas visuais diferentes.
+3- Colocar informações sobre a ação que o botão irá realizar.
+4- Não colocar um botão em cima do outro quando tem espaço para colocá-los em linha horizontal.
+5- Ao usar um botão Outlined, cuidar para não confundir a cor de fundo com a cor do texto do botão.
+6- Testar interfaces para ver se o tamanho do botão não fique menor que o texto.
+7- Ao utilizar ícones, evite ícones acima do texto e não usar dois ícones no mesmo botão.
