@@ -1,1 +1,3 @@
 https://www.lapa.ninja/
+https://picular.co --> Procura cores relativas de um determinado tema
+https://contrastchecker.com/ --> Verifica a acessibilidade causada pelo contraste das cores
