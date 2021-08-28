@@ -1,0 +1,28 @@
+Tipos de botões
+
+1- CTA: Call to action (É importante fazer teste A/B para concluir qual botão mais performático para o contexto do negócio).
+    - Devem ser botões em destaque na tela que realmente explicitam o que o usuário deve fazer na página ou app.
+
+2- Botões primários
+    - Responsável por ajudar o usuário a saber qual é a ação principal. Um CTA pode ser um botão principal,
+    mas a diferença é que em todas as telas o botão primário mantém o mesmo padrão, já o CTA sempre procura
+    se destacar do conteúdo da tela.
+
+3- Botões secundários
+    - Botões para executar ações complementares
+
+4- Botões para espaços pequenos
+    - Utilizar dropdown
+
+5- FloatingActionButton
+    - Botão de ação principaç do material design
+    
+6- Botões com ícone: São importantissimos para acessibilidade.
+    - Ajudam a demonstrar o tipo de ação a se executar
+        - Lado esquerdo: Intenção do usuário ao clicá-lo.
+        - Lado direito: Geralmente utiliza-se uma setinha, para uma nova tela, por exemplo.
+        - JAMAIS USAR DOIS ÍCONES NO MESMO BOTÃO
+
+7- Acessibilidade
+    - aria-hideen="true" significa ocultar para leitor de tela
+    - class="show-for-sr" determina o texto a ser lido pelos leitores de tela

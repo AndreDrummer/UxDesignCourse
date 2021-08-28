@@ -1,0 +1,11 @@
+Anatoma de um botão
+
+- Backrground
+- Width
+- Height
+- Font (Size, family, color)
+- Padding (Espaço interno)
+- Margin (Espaço externo)
+- Border Radius
+- Box-Shadow
+- Texto

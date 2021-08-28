@@ -1,0 +1,18 @@
+Principios a considerar ao se criar um botão.
+
+1- Identifícavel
+    Botões devem indicar que eles podem gerar uma ação
+2- Encontrável
+    Botões devem ser fáceis de encontrar entre outros elementos
+3- Claro
+    A ação e o estado do botão devem ser claros
+
+
+É importante...
+
+- Tamanho
+    - Principalmente quando se trabalha em dispositivos móveis
+- Estado
+- Posicionamento
+- Cor
+- Quantidade
