@@ -1,0 +1,18 @@
+10 regras baseadas em testes
+
+1- Ordene o formuláriode forma lógica e só pergunte o essencial
+    - Trate o formulário como uma conversa
+    - UUse a lógica do usuário e não do DB
+    - Sempre pergunte somente aquilo que é útil
+
+2- Dê preferência para apenas uma coluna
+3- Mantenha o formulário sempre o menor possível
+    - Só peça para digittar o necessário
+
+4- O campo deve ter o tamanho necessário
+5- Labels acima dos campos
+6- Ajuda com a formatação (máscara) adequada
+7- Não use placeholder como label do campo
+8- Não use um botão de reset 
+9- Seja claro com as mensagens de erro
+10- Trate o formulário como uma conversa

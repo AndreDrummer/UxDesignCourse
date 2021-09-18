@@ -1,0 +1,9 @@
+Tipos de Campos
+
+1- Autocomplete
+2- Autopreenchimento (Navegadores)
+3- Checkbox / Radio Buutton
+4- DatePicker
+5- Upload
+6- Multi Upload
+

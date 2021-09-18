@@ -1,0 +1,9 @@
+Principios de design para Formulários
+
+1- Campos precisam ter uma boa encontrabilidade
+2- Campos precisam ter uma boa clareza em relação ao seus estados
+3- Eficiente: Deve ser sempre fácil saber qual informação esta sendo solicitada e os erros que ocorreram.
+4- O tamanho dos botões importam
+5- O estado dos botões importam
+6- O posicionamento do botão também importa
+7- As cores do formulários importam

@@ -1,0 +1,5 @@
+Tipos de Formulários
+
+1- Linear: Mais rápido, única tela, poucos campos.
+2- Em etapas: utilizam fluxos, salvam informações para usar ainda no cadastro.
+3- Vertical: Passo a passo.

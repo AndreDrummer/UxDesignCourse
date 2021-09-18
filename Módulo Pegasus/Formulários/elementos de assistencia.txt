@@ -1,0 +1,6 @@
+Elementos de Assisttência
+
+1- Helper text (Texto de ajuda)
+2- Error Message (Mensagem de erro)
+3- Icons: Icones de erro são espcialmente úteis para pessoas daltônicas
+4- Contador de caracters: Deve ser usado se houver um limite de catacters.

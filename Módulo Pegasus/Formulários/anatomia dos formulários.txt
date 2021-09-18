@@ -1,0 +1,9 @@
+Anatomia dos formulários
+
+1- O campo: Utilizado para escrever o conteudo
+2- ícone: Assitente para saber o que preencher ali
+3- Rótulo / Label: Nome que diz para que serve esse campo
+4- Informação: O que o usuário insere no campo
+5- ícone de sinalização: Ajuda no feedback para o usuário
+6- Feedback visual de status: Ajuda na acessibilidade
+7- Texto de ajuda: Informar para qual propósito serve aquele campo
