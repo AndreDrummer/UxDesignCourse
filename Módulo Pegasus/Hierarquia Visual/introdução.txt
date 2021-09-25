@@ -1,0 +1,10 @@
+Hierarquia Visual
+
+Definição da ordem de importancia dos elementos de uma interface.
+
+Tipos de hierarquia
+1- Tipografia
+2- Cores
+3- Tamanhos
+4- Proximidade
+5- Repetição

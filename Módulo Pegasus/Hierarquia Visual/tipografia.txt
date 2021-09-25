@@ -1,0 +1,4 @@
+Hierarquia de Tipografia
+
+A tipografia mais pesada estabelece-se mais relevanetemente dentro de uma land page.
+Elementos com fontes, pesos maiores, tem importancia maiores também.

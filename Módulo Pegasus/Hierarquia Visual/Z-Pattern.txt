@@ -1,0 +1,10 @@
+Z-Pattern
+
+Crie um fluxo
+
+Entregue para o usuário o que ele quer ver primeiro.
+
+1- Logo
+2- Call to Action
+3- Proposta de valor
+4- Call to actio
